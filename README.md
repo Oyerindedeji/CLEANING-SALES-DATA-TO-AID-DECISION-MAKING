@@ -22,6 +22,7 @@ This 'csv' document is extracted for a clean and analyze sales performance of an
 
 
 
+
 ### Focus and Objectives:
 Understand customer purchase behavior.
 Identify high-performing products and categories.
