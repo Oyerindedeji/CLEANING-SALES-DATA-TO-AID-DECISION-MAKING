@@ -18,8 +18,7 @@ This 'csv' document is extracted for a clean and analyze sales performance of an
 ## Project Overview
  This 'csv' document is extracted for a clean and analyze sales performance of an e-commerce business using Excel. By leveraging historical sales data, the project aims to identify trends, key performance metrics, and areas for improvement, ultimately helping the business and organization make data-driven decisions to optimize revenue, marketing strategies, product offerings and also gain a deeper understanding of the company's performance .
 
-![Sales Analysis Summary Sheet](https://github.com/user-attachments/assets/a207f532-dac6-4d83-88b9-29e6107e3010)
-![Sales Analysis Summary Sheet](https://github.com/user-attachments/assets/0be4fb0a-6c70-4c90-ba39-c0a3c2e3efab)
+![Sales Analysis Summary Sheet](https://github.com/user-attachments/assets/186dd5bd-a10e-4761-b162-0cc0f7f6cfd7)
 
 ### Focus and Objectives:
 Understand customer purchase behavior.
