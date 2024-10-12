@@ -1,6 +1,18 @@
 # CLEANING & ANALYSING SALES DATA TO AID DECISION MAKING 
  
 This 'csv' document is extracted for a clean and analyze sales performance of an e-commerce business using Excel. By leveraging historical sales data, the project aims to identify trends, key performance metrics, and areas for improvement, ultimately helping the business and organization make data-driven decisions to optimize revenue, marketing strategies, product offerings and also gain a deeper understanding of the company's performance .
+## Table of content 
+- [Project Overview](#project-overview)
+- [Focus and Objectives](#focus-and-objectives)
+- [Data Soures](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning And Analysis Workflow](#data-cleaning-and-analysis-workflow)
+- [Data Analysis](#data-analysis)
+- [Results And Findings](#results-and-findings)
+- [Recommendations](recommendations)
+- [Limitations](#limitations)
+- [Reference](#references)
+
 
 
 ## Project Overview
@@ -11,7 +23,7 @@ Understand customer purchase behavior.
 Identify high-performing products and categories.
 Analyze sales trends across different regions and time periods.
 Provide recommendations for business optimization.
-### Data sources
+### Data Sources
 
 The data used in this project is the "sales_data.csv" file derived through web scrapping from an authorised link. The dataset includes the following KPI
 
@@ -33,7 +45,7 @@ These dataset has been cleaned and prepared for analysis, with missing values ha
 - Pivot table : Main analytical tool for summerization
 - Pivot Chart : for visualization
 
-### Data Cleaning / Analysis Workflow
+### Data Cleaning And Analysis Workflow
 Data Cleaning: In the initial sales dataset I performed the following tasks
 1. Data loading & Visual Exploration:  this is where I carried out my observations to demisify the problems
 2. Datat Cleaning: I cleaned up to handle noises and missing values, remove duplicate entries, and formatting inconsistencies.
@@ -50,7 +62,7 @@ Data Cleaning: In the initial sales dataset I performed the following tasks
 =IF(Z15 <12.84, "Low Cost", IF(Z15>12.84, "High Cost",IF(Z15 = 12.84, "Average Cost")))
 ```
 
-### Results & Findings
+### Results And Findings
 
 Brief analysis of results are summerised as follows:
 
@@ -75,6 +87,10 @@ Based on my analysis, i recommended the following actions to further improve sal
 - I also remove all noises that came along with the dataset,
 - replacing missing values could be more tasking when replacing them for result accuracy.
 
+## References
+1. Google
+2. geeksforgeeks [https://www.geeksforgeeks.org]
+3. w3schools [https://www.w3schools.com]
 
 
 
