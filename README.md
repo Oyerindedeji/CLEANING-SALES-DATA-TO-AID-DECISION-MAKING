@@ -9,7 +9,7 @@ This 'csv' document is extracted for a clean and analyze sales performance of an
 - [Data Cleaning And Analysis Workflow](#data-cleaning-and-analysis-workflow)
 - [Data Analysis](#data-analysis)
 - [Results And Findings](#results-and-findings)
-- [Recommendations](recommendations)
+- [Recommendations](#recommendations)
 - [Limitations](#limitations)
 - [Reference](#references)
 
